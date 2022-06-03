@@ -1,7 +1,6 @@
-
-
 public class Aufgabe1{
     public static int[] merge(int[] array1, int[] array2){
+        
         int[] arrayErg = new int[array1.length + array2.length];
 
         int count1 = 0;
