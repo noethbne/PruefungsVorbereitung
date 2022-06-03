@@ -1,4 +1,4 @@
-import javax.swing.UIDefaults.ProxyLazyValue;
+package AlgenDaten;
 
 public class Aufgabe3 {
     public static boolean hasOne(int aValue){

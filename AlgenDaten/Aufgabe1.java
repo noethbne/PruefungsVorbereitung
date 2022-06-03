@@ -1,3 +1,5 @@
+package AlgenDaten;
+
 public class Aufgabe1{
     public static int[] merge(int[] array1, int[] array2){
         
