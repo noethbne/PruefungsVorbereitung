@@ -38,7 +38,7 @@ public class Aufgabe4 {
     }
 
     public static void main(String[] args){
-        int[] test1 = {4,2,8,7,-5,0,3,9};
+        int[] test1 = {4,2,8,7,-15,0,3,9};
         int[] test2 = {10,9,8,7,6,5,4,3,2,1,0};
 
         print(test1);
